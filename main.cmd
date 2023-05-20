@@ -1,0 +1,1 @@
+start  powershell -command "& '.\main.ps1' -MyArguments blah"
