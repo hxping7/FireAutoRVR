@@ -1,4 +1,5 @@
-#using assembly "System.Windows.Forms.dll"
+﻿#using assembly "System.Windows.Forms.dll"
+#chcp.com 65001
 [void] [System.Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms")
 [void] [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing")
 
